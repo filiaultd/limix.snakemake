@@ -1,4 +1,4 @@
-# README for Daniele's subproject
+# README
 ## snakemake pipeline for limix GWAS on atmosphere :snake:
 
 Using a medium2 Ubuntu 18.04 NoDesktop Base v4.0 atmosphere image with snakemake and miniconda installed
@@ -8,7 +8,7 @@ Using a medium2 Ubuntu 18.04 NoDesktop Base v4.0 atmosphere image with snakemake
     cd /scratch
 
 ## Step 2: clone repository from github
-    git clone https://github.com/redtreevole/Foss2020Team6project
+    git clone https://github.com/filiaultd/limix.snakemake
 
 ## Step 3: stage data in from Data Store at iplant/home/filiaultd/GWAS_data to directory 001.data
     mkdir 001.data
